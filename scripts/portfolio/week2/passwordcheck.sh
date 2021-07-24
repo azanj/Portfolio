@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Input password and confirm it is the same as the hash password stored 
+#Ali Zanjani 24/7/21 - Input password and confirm it is the same as the hash password stored 
 
 read -sp 'Enter secret Password' var_spass
 var_hash=$(echo $var_spass | sha256sum)
