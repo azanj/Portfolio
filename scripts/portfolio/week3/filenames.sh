@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Ali Zanjani - 2/8/21 - A for loop that analyses he contents of a file
+#Ali Zanjani - 2/8/21 - A for loop that analyses the contents of a file
 
 myfile="filenames.txt"
 

@@ -3,7 +3,7 @@
 Blue='\e[1;34m'
 NC1='\e[0m'
 
-#Ali Zanjani 24/7/21 - Input password and confirm it is the same as the hash password stored 
+#Ali Zanjani 24/7/21 - Script to input password and confirm it is the same as the hash password stored 
 
 printf "${Blue}Enter Secrect Password:${NC1}";read -s var_spass
 

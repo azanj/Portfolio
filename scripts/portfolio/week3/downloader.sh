@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Ali Zanjani - 1/8/21 - Download website and save url to a directory
+#Ali Zanjani - 1/8/21 - Script to download website and save url to a directory
 while :; 
 do 
 read -p "type website url to download or exit" url
